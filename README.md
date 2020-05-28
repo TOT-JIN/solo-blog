@@ -11,6 +11,7 @@
 ### 最新
 
 * [CentOS7 部署 fastDFS 集群](https://17kblog.com/articles/2019/12/18/1576681865733.html)
+* [Hive 配置高可用 hiveserver2](https://17kblog.com/articles/2019/11/28/1574954229733.html)
 * [CentOS7 安装 Hive 2.3.4 （远程 Metastore Server 模式）](https://17kblog.com/articles/2019/06/10/1560157654923.html)
 * [CentOS7 安装 Hive 2.3.4 （远程 Metastore Database 模式）](https://17kblog.com/articles/2019/06/09/1560078073733.html)
 * [CentOS7 安装 HA 模式 HDFS 集群（yarn 版）](https://17kblog.com/articles/2019/05/19/1558230815733.html)
