@@ -22,6 +22,7 @@
 * [CentOS7 安装 Zookeeper-3.4.5](https://17kblog.com/articles/2018/10/05/1538704415733.html)
 * [CentOS7 安装 Hive-0.13.0](https://17kblog.com/articles/2018/10/04/1538618015733.html)
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
+* [Linux 命令行模式快捷键使用](https://17kblog.com/articles/2016/05/20/1463747752592.html)
 
 
 
