@@ -22,14 +22,14 @@
 * [CentOS7 安装 Zookeeper-3.4.5](https://17kblog.com/articles/2018/10/05/1538704415733.html)
 * [CentOS7 安装 Hive-0.13.0](https://17kblog.com/articles/2018/10/04/1538618015733.html)
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
-* [LNMP--nginx 配置防盗链](https://17kblog.com/articles/2018/02/15/1518679453733.html)
-* [LNMP--nginx 配置静态文件过期时间](https://17kblog.com/articles/2018/02/13/1518498883733.html)
-* [LNMP--nginx 日志切割](https://17kblog.com/articles/2018/02/12/1518449053733.html)
-* [LNMP--nginx 不记录指定文件类型的日志](https://17kblog.com/articles/2018/02/10/1518270283733.html)
-* [LNMP--nginx 域名跳转](https://17kblog.com/articles/2018/02/07/1517974483733.html)
-* [LNMP--nginx用户认证](https://17kblog.com/articles/2018/02/01/1517459053733.html)
-* [LNMP--常见的502问题](https://17kblog.com/articles/2018/01/20/1516422253733.html)
-* [LNMP--php-fpm 配置文件](https://17kblog.com/articles/2018/01/15/1515983053733.html)
+* [1.6 Docker 仓库管理](https://17kblog.com/articles/2018/05/14/1526271223832.html)
+* [1.5 Docker 容器管理](https://17kblog.com/articles/2018/05/13/1526211806832.html)
+* [1.4 Docker 基于本地模板导入创建镜像、镜像导出文件、文件恢复镜像](https://17kblog.com/articles/2018/05/11/1526002396832.html)
+* [1.3 Docker 基于已有镜像的容器创建镜像](https://17kblog.com/articles/2018/05/09/1525864976832.html)
+* [1.2 Docker 镜像管理](https://17kblog.com/articles/2018/05/09/1525831933832.html)
+* [1.1 Ubuntu使用阿里源安装docker-ce](https://17kblog.com/articles/2018/05/08/1525754671832.html)
+* [git常用操作](https://17kblog.com/articles/2018/02/28/1519793071733.html)
+* [LNMP--nginx 代理](https://17kblog.com/articles/2018/02/21/1519183471733.html)
 
 ### 热门
 
