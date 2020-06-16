@@ -22,14 +22,14 @@
 * [CentOS7 安装 Zookeeper-3.4.5](https://17kblog.com/articles/2018/10/05/1538704415733.html)
 * [CentOS7 安装 Hive-0.13.0](https://17kblog.com/articles/2018/10/04/1538618015733.html)
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
-* [2.3 Dockerfile创建镜像-Dockerfile示例](https://17kblog.com/articles/2018/05/27/1527428594832.html)
-* [2.2 Dockerfile 创建镜像-Dockerfile格式](https://17kblog.com/articles/2018/05/25/1527221604832.html)
-* [2.0 Docker 网络管理-容器互联](https://17kblog.com/articles/2018/05/23/1527086593832.html)
-* [1.9 Docker 网络管理-外部访问容器](https://17kblog.com/articles/2018/05/21/1526876633832.html)
-* [1.8 Docker 网络管理-四种网络模式](https://17kblog.com/articles/2018/05/20/1526828003832.html)
-* [1.7 Docker 数据管理](https://17kblog.com/articles/2018/05/17/1526556193832.html)
-* [1.6 Docker 仓库管理](https://17kblog.com/articles/2018/05/14/1526271223832.html)
-* [1.5 Docker 容器管理](https://17kblog.com/articles/2018/05/13/1526211806832.html)
+* [ansible 安装 nginx](https://17kblog.com/articles/2018/08/08/1533723824832.html)
+* [ansible playbook中的handlers](https://17kblog.com/articles/2018/08/08/1533687224832.html)
+* [ansible playbook 中的条件判断](https://17kblog.com/articles/2018/08/07/1533642194832.html)
+* [ansible playbook中的循环](https://17kblog.com/articles/2018/08/06/1533519794832.html)
+* [ansible playbook](https://17kblog.com/articles/2018/08/05/1533467504832.html)
+* [ansible 管理服务](https://17kblog.com/articles/2018/08/05/1533442304832.html)
+* [ansible 实现任务计划](https://17kblog.com/articles/2018/08/04/1533356474832.html)
+* [ansible 远程执行脚本](https://17kblog.com/articles/2018/08/03/1533356474832.html)
 
 ### 热门
 
