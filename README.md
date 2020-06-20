@@ -22,14 +22,14 @@
 * [CentOS7 安装 Zookeeper-3.4.5](https://17kblog.com/articles/2018/10/05/1538704415733.html)
 * [CentOS7 安装 Hive-0.13.0](https://17kblog.com/articles/2018/10/04/1538618015733.html)
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
+* [mysql 备份与恢复](https://17kblog.com/articles/2018/09/11/1536640992812.html)
+* [mysql 常用操作](https://17kblog.com/articles/2018/09/10/1536581562812.html)
+* [mysql 登陆](https://17kblog.com/articles/2018/09/04/1536036132812.html)
+* [mysql的root密码重置](https://17kblog.com/articles/2018/09/02/1535897563812.html)
+* [mysql 调优](https://17kblog.com/articles/2018/09/02/1535863333812.html)
+* [mysql 配置讲解](https://17kblog.com/articles/2018/09/01/1535811733812.html)
 * [ansible 安装 nginx](https://17kblog.com/articles/2018/08/08/1533723824832.html)
 * [ansible playbook中的handlers](https://17kblog.com/articles/2018/08/08/1533687224832.html)
-* [ansible playbook 中的条件判断](https://17kblog.com/articles/2018/08/07/1533642194832.html)
-* [ansible playbook中的循环](https://17kblog.com/articles/2018/08/06/1533519794832.html)
-* [ansible playbook](https://17kblog.com/articles/2018/08/05/1533467504832.html)
-* [ansible 管理服务](https://17kblog.com/articles/2018/08/05/1533442304832.html)
-* [ansible 实现任务计划](https://17kblog.com/articles/2018/08/04/1533356474832.html)
-* [ansible 远程执行脚本](https://17kblog.com/articles/2018/08/03/1533356474832.html)
 
 ### 热门
 
