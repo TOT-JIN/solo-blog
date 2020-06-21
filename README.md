@@ -2,7 +2,7 @@
 散宜生的个人博客
 </h2>
 
-<h4 align="center">一起来看精彩的世界</h4>
+<h4 align="center">一起来看流星雨</h4>
 <p align="center"><a title="散宜生的个人博客" target="_blank" href="https://github.com/TOT-JIN/solo-blog"><img src="https://img.shields.io/github/last-commit/TOT-JIN/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/TOT-JIN/solo-blog"><img src="https://img.shields.io/github/repo-size/TOT-JIN/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
