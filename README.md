@@ -1,4 +1,4 @@
-<p align="center"><img alt="散宜生的个人博客" src="https://b3logfile.com/avatar/1589643758649_1589646186184.jpeg"></p><h2 align="center">
+<h2 align="center">
 散宜生的个人博客
 </h2>
 
