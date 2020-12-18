@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CDH6部署](https://17kblog.com/articles/2020/12/18/1608268078153.html)
 * [CentOS7 安装 Hbase 2.1.10](https://17kblog.com/articles/2020/06/04/1591274902592.html)
 * [CentOS7 部署 fastDFS 集群](https://17kblog.com/articles/2019/12/18/1576681865733.html)
 * [Hive 配置高可用 hiveserver2](https://17kblog.com/articles/2019/11/28/1574954229733.html)
@@ -29,7 +30,6 @@
 * [mysql 调优](https://17kblog.com/articles/2018/09/02/1535863333812.html)
 * [mysql 配置讲解](https://17kblog.com/articles/2018/09/01/1535811733812.html)
 * [ansible 安装 nginx](https://17kblog.com/articles/2018/08/08/1533723824832.html)
-* [ansible playbook中的handlers](https://17kblog.com/articles/2018/08/08/1533687224832.html)
 
 
 
