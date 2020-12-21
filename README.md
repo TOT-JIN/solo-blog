@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [【CDH6】CDH 集成 Flink](https://17kblog.com/articles/2020/12/20/1608474708314.html)
+* [【CDH6】Impala 安装及使用](https://17kblog.com/articles/2020/12/20/1608474516996.html)
+* [【CDH6】Hue的安装及使用](https://17kblog.com/articles/2020/12/20/1608474110157.html)
+* [【CDH6】Oozie 安装及使用](https://17kblog.com/articles/2020/12/20/1608473139222.html)
+* [【CDH6】安装 Hive](https://17kblog.com/articles/2020/12/20/1608472427089.html)
 * [CDH 6.3.2 部署](https://17kblog.com/articles/2020/12/18/1608271781807.html)
 * [CentOS7 安装 Hbase 2.1.10](https://17kblog.com/articles/2020/06/04/1591274902592.html)
 * [CentOS7 部署 fastDFS 集群](https://17kblog.com/articles/2019/12/18/1576681865733.html)
@@ -25,11 +30,6 @@
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
 * [mysql 备份与恢复](https://17kblog.com/articles/2018/09/11/1536640992812.html)
 * [mysql 常用操作](https://17kblog.com/articles/2018/09/10/1536581562812.html)
-* [mysql 登陆](https://17kblog.com/articles/2018/09/04/1536036132812.html)
-* [mysql的root密码重置](https://17kblog.com/articles/2018/09/02/1535897563812.html)
-* [mysql 调优](https://17kblog.com/articles/2018/09/02/1535863333812.html)
-* [mysql 配置讲解](https://17kblog.com/articles/2018/09/01/1535811733812.html)
-* [ansible 安装 nginx](https://17kblog.com/articles/2018/08/08/1533723824832.html)
 
 
 
