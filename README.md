@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [利用iptables更改数据包的目的IP](https://17kblog.com/articles/2021/02/26/1614317317767.html)
 * [MacOS 挂载目录到另一个目录](https://17kblog.com/articles/2020/12/22/1608608227214.html)
 * [【CDH6】CDH 集成 Flink](https://17kblog.com/articles/2020/12/20/1608474708314.html)
 * [【CDH6】Impala 安装及使用](https://17kblog.com/articles/2020/12/20/1608474516996.html)
@@ -29,7 +30,6 @@
 * [CentOS7 安装 Zookeeper-3.4.5](https://17kblog.com/articles/2018/10/05/1538704415733.html)
 * [CentOS7 安装 Hive-0.13.0](https://17kblog.com/articles/2018/10/04/1538618015733.html)
 * [CentOS7 安装 hadoop-1.2.1](https://17kblog.com/articles/2018/10/03/1538531615733.html)
-* [mysql 备份与恢复](https://17kblog.com/articles/2018/09/11/1536640992812.html)
 
 
 
